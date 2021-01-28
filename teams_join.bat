@@ -1,0 +1,1 @@
+cd C:\Users\GAUTAM\Desktop\Teams-Auto-Joiner & env\Scripts\activate & py auto_joiner.py
