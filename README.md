@@ -3,6 +3,7 @@
 ### Steps for EC2:
 * Create EC2 windows and access it through RDP client.
 * Enable file downloads using [this](https://aws.amazon.com/premiumsupport/knowledge-center/ec2-windows-file-download-ie/)
+* Download and Install Google Chrome and Python 3.x
 * Download/Clone this repository
 * Rename config.json.example to config.json
 * Edit the config.json file using these [options](https://github.com/TobiasPankner/Teams-Auto-Joiner)
